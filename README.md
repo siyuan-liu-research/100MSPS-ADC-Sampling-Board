@@ -1,6 +1,6 @@
-# 100MHz-ADC-Sampling-Board
+# 100MSPS-ADC-Sampling-Board
 
-100MHz High-Speed ADC Sampling Board (Including 3.3V-1.8V Voltage Conversion Board) | Hardware Design + FPGA Firmware Development + Performance Test Script | 2025 Undergraduate Innovation Practice Training Program Project, National Astronomical Observatories, Chinese Academy of Sciences
+100MSPS High-Speed ADC Sampling Board (Including 3.3V-1.8V Voltage Conversion Board) | Hardware Design + FPGA Firmware Development + Performance Test Script | 2025 Undergraduate Innovation Practice Training Program Project, National Astronomical Observatories, Chinese Academy of Sciences
 
 
 ## Project Overview

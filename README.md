@@ -22,7 +22,7 @@ The system completes the conversion and level adaptation from analog to digital 
 
 ## Project Background
 
-This project is an approved project of the **2025 Undergraduate Innovation Practice Training Program of the National Astronomical Observatories, Chinese Academy of Sciences**, and is developed relying on the Pulsar and Gravitational Physics Research Group - BAO of the National Astronomical Observatories.
+This project is an approved project of the **2025 Undergraduate Innovation Practice Training Program of the National Astronomical Observatories, Chinese Academy of Sciences**, and is developed relying on the Pulsar and Gravitational Physics Research Group of the National Astronomical Observatories.
 
 ### Funding Source
 
@@ -121,5 +121,5 @@ siyuan.liu.research@outlook.com
 ## Acknowledgments
 
 1. 2025 Undergraduate Innovation Practice Training Program, National Astronomical Observatories, Chinese Academy of Sciences
-2. Pulsar and Gravitational Physics Research Group - BAO, National Astronomical Observatories, Chinese Academy of Sciences
+2. Pulsar and Gravitational Physics Research Group, National Astronomical Observatories, Chinese Academy of Sciences
 3. Shenzhen JLC Technology Group Co., Ltd.

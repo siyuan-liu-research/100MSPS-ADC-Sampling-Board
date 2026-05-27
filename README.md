@@ -26,7 +26,7 @@ This project is an approved project of the **2025 Undergraduate Innovation Pract
 
 ### Funding Source
 
-The project R&D funding is jointly provided by **Shenzhen JLC Technology Group Co., Ltd.** and the **Pulsar and Gravitational Physics Research Group (BAO) of the National Astronomical Observatories, Chinese Academy of Sciences**.
+The project R&D funding is jointly provided by **Shenzhen JLC Technology Group Co., Ltd.** and the **Pulsar and Gravitational Physics Research Group of the National Astronomical Observatories, Chinese Academy of Sciences**.
 
 ## Hardware Design
 

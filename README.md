@@ -14,7 +14,7 @@ The system completes the conversion and level adaptation from analog to digital 
 ### Overall Physical View
 ![100MSPS_ADC_Sampling_Board_Overview|700x450](https://github.com/user-attachments/assets/a6a6d404-6b1b-4105-83c5-7c357f7fd876)
 
-### Board Backside Detail0s
+### Board Backside Details
 <img src="https://github.com/user-attachments/assets/cc053fdf-76d2-496e-96d7-bb52fb97d6eb" alt="100MSPS_ADC_Sampling_Board_Back" style="max-width:500px; height:auto;" />
 
 ### Board Frontside Details
